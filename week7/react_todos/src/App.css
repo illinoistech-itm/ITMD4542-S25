@@ -1,0 +1,8 @@
+body {
+  flex-direction: column;
+}
+
+.todo-container {
+  display: flex;
+  flex-direction: row;
+}
